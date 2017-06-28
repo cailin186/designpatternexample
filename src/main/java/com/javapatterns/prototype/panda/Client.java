@@ -11,6 +11,10 @@ public class Client
 
        // Create the second object by cloning the first
        thatPanda = (PandaToClone) thisPanda.clone();
+       
+       
+       System.out.println(thatPanda==thisPanda);//false
+       System.out.println(thatPanda.equals(thisPanda));//false
 
       // Now describe these objects on the system console :
 
