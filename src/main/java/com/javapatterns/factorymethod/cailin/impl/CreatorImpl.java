@@ -5,7 +5,6 @@ import com.javapatterns.factorymethod.cailin.IProduct;
 
 public class CreatorImpl implements ICreator {
 
-	@Override
 	public IProduct factory() {
 		return new ProductIml();
 	}
