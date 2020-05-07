@@ -8,6 +8,7 @@ public class Client
         Command command = new ConcreteCommand(receiver);
     	Invoker invoker = new Invoker( command );
 
+
         invoker.action();
     }
 

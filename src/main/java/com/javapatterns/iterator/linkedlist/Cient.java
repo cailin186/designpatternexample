@@ -12,7 +12,7 @@ public class Cient {
         ll.add(new String("Age: "));
         ll.add(new Integer(35));
         ll.add(new String("Career: "));
-        ll.add(new String("Bug selling"))
+        ll.add(new String("Bug selling"));
 
         it = ll.listIterator(0);
 

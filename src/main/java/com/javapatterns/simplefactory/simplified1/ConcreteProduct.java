@@ -1,6 +1,6 @@
 package com.javapatterns.simplefactory.simplified1;
 
-public class ConcreteProduct 
+public class ConcreteProduct
 {
 	public ConcreteProduct(){}
 
@@ -9,7 +9,7 @@ public class ConcreteProduct
         return new ConcreteProduct();
     }
 
-    /** @link dependency 
+    /** @link dependency
      * @label Creates*/
     /*# ConcreteProduct lnkConcreteProduct; */
 }

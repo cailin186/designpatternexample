@@ -1,35 +1,138 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AnalysisUIOptions">
-    <option name="GROUP_BY_SEVERITY" value="true" />
-  </component>
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/src/main/java/com/javapatterns/iterator/linkedlist/Cient.java" line="18" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="94eca28f-6421-4a92-afa4-0924a03b7de8" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/javapatterns/tensorflow/HelloTF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/javapatterns/tensorflow/Helloworld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jvm/JvmTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/java与模式.xmind" beforeDir="false" afterPath="$PROJECT_DIR$/resources/java与模式.xmind" afterDir="false" />
+    <list default="true" id="b9cbf680-d9dc-4983-94bd-60cd60b4a51f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javapatterns/simplefactory/simplified1/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javapatterns/simplefactory/simplified1/FriutFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javapatterns/strategy/member/AdvMemberStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javapatterns/strategy/member/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javapatterns/strategy/member/MemberStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javapatterns/strategy/member/Price.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javapatterns/strategy/member/PrimaryMemberStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javapatterns/strategy/member/StrategyFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javapatterns/strategy/sortarray/SortClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_3_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_tensorflow_libtensorflow_1_8_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_tensorflow_libtensorflow_jni_1_8_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_tensorflow_tensorflow_1_8_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desginpattern.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/java与模式_new.xmind" beforeDir="false" afterPath="$PROJECT_DIR$/resources/java与模式_new.xmind" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/javapatterns/command/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/javapatterns/command/Client.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/javapatterns/iterator/linkedlist/Cient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/javapatterns/iterator/linkedlist/Cient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/javapatterns/simplefactory/Creator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/javapatterns/simplefactory/Creator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/javapatterns/simplefactory/simplified1/ConcreteProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/javapatterns/simplefactory/simplified1/ConcreteProduct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/javapatterns/strategy/ConcreteStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/javapatterns/strategy/ConcreteStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/javapatterns/strategy/Context.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/javapatterns/strategy/Context.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/javapatterns/strategy/sortarray/BinSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/javapatterns/strategy/sortarray/BinSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/javapatterns/templatemethod/InterestRate/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/javapatterns/templatemethod/InterestRate/Client.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="225">
-      <file leaf-file-name="JvmTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/jvm/JvmTest.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/strategy/member/StrategyFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="32" column="19" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="19" />
+            <state relative-caret-position="195">
+              <caret line="13" column="37" lean-forward="true" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#395#396#0" expanded="true" />
+                <element signature="e#439#440#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/strategy/member/AdvMemberStrategy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/strategy/member/PrimaryMemberStrategy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="12" lean-forward="true" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/strategy/member/MemberStrategy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/strategy/member/Price.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+              <folding>
+                <element signature="e#234#235#0" expanded="true" />
+                <element signature="e#274#275#0" expanded="true" />
+                <element signature="e#412#413#0" expanded="true" />
+                <element signature="e#470#471#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/strategy/member/Client.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/abstractfactory/computer/Cpu.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/abstractfactory/ProductB.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/abstractfactory/exercise1/PcCpu.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -39,9 +142,17 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>hystirx</find>
+      <find>switch</find>
+      <find>MemberStrategy</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -49,21 +160,33 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/jvm/Hello.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/javapatterns/iterator/linkedlist/Cient.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/javapatterns/tensorflow/HelloTF.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/javapatterns/tensorflow/Helloworld.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jvm/Helloworld.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jvm/Hellhole.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jvm/JvmTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/javapatterns/templatemethod/InterestRate/Client.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/javapatterns/windowadapter/ServiceAdapter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/javapatterns/command/Client.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/javapatterns/simplefactory/Creator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/javapatterns/simplefactory/simplified1/Client.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/javapatterns/simplefactory/simplified1/ConcreteProduct.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/javapatterns/simplefactory/simplified1/ConcreteProductNew.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/javapatterns/simplefactory/simplified1/FriutFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/javapatterns/strategy/sortarray/BinSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/javapatterns/strategy/sortarray/TestSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/javapatterns/strategy/sortarray/SortClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/javapatterns/strategy/member/rimaryMemberStrategy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/javapatterns/strategy/member/Price.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/javapatterns/strategy/Context.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/javapatterns/strategy/Client.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/javapatterns/strategy/member/PrimaryMemberStrategy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/javapatterns/strategy/member/MemberStrategy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/javapatterns/strategy/member/Strategy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/javapatterns/strategy/member/StrategyImpl1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/javapatterns/strategy/member/AdvMemberStrategy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/javapatterns/strategy/StrategyClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/javapatterns/strategy/member/StrategyFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/javapatterns/strategy/member/Client.java" />
       </list>
     </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -79,23 +202,26 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="NodePackageJsonFileManager">
-    <packageJsonPaths />
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="skipTests" value="true" />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="width" value="1366" />
-    <option name="height" value="768" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="35" />
+    <option name="y" value="23" />
+    <option name="width" value="1405" />
+    <option name="height" value="837" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <showMembers ProjectPane="false" />
+      <abbreviatePackageNames ProjectPane="false" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -106,6 +232,11 @@
             <path>
               <item name="desginpattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="designpatternexample" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="desginpattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designpatternexample" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -136,25 +267,73 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="jvm" type="462c0819:PsiDirectoryNode" />
+              <item name="javapatterns" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="desginpattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designpatternexample" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="javapatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="abstractfactory" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="desginpattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designpatternexample" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="javapatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="strategy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="desginpattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designpatternexample" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="javapatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="strategy" type="462c0819:PsiDirectoryNode" />
+              <item name="member" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="desginpattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designpatternexample" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="javapatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="strategy" type="462c0819:PsiDirectoryNode" />
+              <item name="sortarray" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///home/cl/workdir/others/git/designpatternexample/src/main/java/com/javapatterns/state/taoist/WallEntryException.java&#10;cailin&#9;FILE&#9;file:///home/cailin/workdir/others/git/designpatternexample/src/test/java/com/cailin" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../talkplatform_root" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1588870488678" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.javapatterns.simplefactory.simplified1" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -168,656 +347,683 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Helloworld1">
-    <configuration name="Cient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javapatterns.iterator.linkedlist.Cient" />
-      <module name="desginpattern" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+  <component name="RunManager" selected="Application.Client (1)">
+    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.javapatterns.strategy.member.Client" />
+      <module name="designpatternexample" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javapatterns.iterator.linkedlist.*" />
+          <option name="PATTERN" value="com.javapatterns.strategy.member.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method>
-        <option name="Make" enabled="false" />
+      <method v="2">
         <option name="MakeNoErrorCheck" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloTF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javapatterns.tensorflow.HelloTF" />
-      <module name="desginpattern" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+    <configuration name="Client (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.javapatterns.templatemethod.InterestRate.Client" />
+      <module name="designpatternexample" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javapatterns.tensorflow.*" />
+          <option name="PATTERN" value="com.javapatterns.templatemethod.InterestRate.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method>
-        <option name="Make" enabled="false" />
+      <method v="2">
         <option name="MakeNoErrorCheck" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Helloworld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javapatterns.tensorflow.Helloworld" />
-      <module name="desginpattern" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+    <configuration name="Client (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.javapatterns.strategy.Client" />
+      <module name="designpatternexample" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javapatterns.tensorflow.*" />
+          <option name="PATTERN" value="com.javapatterns.strategy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method>
-        <option name="Make" enabled="false" />
+      <method v="2">
         <option name="MakeNoErrorCheck" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Helloworld1" type="Application" factoryName="Application" temporary="true">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.javapatterns.iterator.blackbox.Client" />
+      <module name="designpatternexample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javapatterns.iterator.blackbox.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="MakeNoErrorCheck" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JvmTest" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="com.jvm.JvmTest" />
       <module name="desginpattern" />
-      <option name="VM_PARAMETERS" value="-verbose:gc -Xms20M -Xmx20M -Xmn10M -XX:+PrintGCDetails -XX:SurvivorRatio=8 -XX:MaxTenuringThreshold=15" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.jvm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method>
-        <option name="Make" enabled="false" />
+      <method v="2">
+        <option name="MakeNoErrorCheck" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StrategyClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.javapatterns.strategy.StrategyClient" />
+      <module name="designpatternexample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javapatterns.strategy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
         <option name="MakeNoErrorCheck" enabled="true" />
       </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ALTERNATIVE_JRE_PATH" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <method v="2">
+        <option name="MakeNoErrorCheck" enabled="true" />
+      </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Cient" />
-      <item itemvalue="Application.HelloTF" />
-      <item itemvalue="Application.Helloworld" />
-      <item itemvalue="Application.Helloworld1" />
+      <item itemvalue="Application.JvmTest" />
+      <item itemvalue="Application.Client" />
+      <item itemvalue="Application.Client (2)" />
+      <item itemvalue="Application.Client (1)" />
+      <item itemvalue="Application.Client (3)" />
+      <item itemvalue="Application.StrategyClient" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Helloworld1" />
-        <item itemvalue="Application.Cient" />
-        <item itemvalue="Application.Helloworld" />
-        <item itemvalue="Application.HelloTF" />
+        <item itemvalue="Application.Client (1)" />
+        <item itemvalue="Application.StrategyClient" />
+        <item itemvalue="Application.Client (3)" />
+        <item itemvalue="Application.Client (2)" />
+        <item itemvalue="Application.Client" />
       </list>
     </recent_temporary>
   </component>
   <component name="SvnConfiguration">
-    <configuration>$USER_HOME$/.subversion</configuration>
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="94eca28f-6421-4a92-afa4-0924a03b7de8" name="Default" comment="" />
-      <created>1524464279569</created>
+      <changelist id="b9cbf680-d9dc-4983-94bd-60cd60b4a51f" name="Default Changelist" comment="" />
+      <created>1545294907213</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1524464279569</updated>
-      <workItem from="1524464282657" duration="127000" />
-      <workItem from="1524493021300" duration="591000" />
-      <workItem from="1524493720810" duration="57000" />
-      <workItem from="1524493821456" duration="82000" />
-      <workItem from="1524495434428" duration="360000" />
-      <workItem from="1527156022205" duration="1309000" />
-      <workItem from="1527159479956" duration="1929000" />
-      <workItem from="1527210630489" duration="1218000" />
-      <workItem from="1531411273384" duration="114000" />
-      <workItem from="1531709848072" duration="25000" />
-      <workItem from="1531915893417" duration="1226000" />
-      <workItem from="1532346247206" duration="6075000" />
-      <workItem from="1532363525088" duration="2375000" />
-      <workItem from="1532366043959" duration="39000" />
-      <workItem from="1532400380078" duration="8183000" />
+      <updated>1545294907213</updated>
+      <workItem from="1545294908841" duration="2178000" />
+      <workItem from="1545300185604" duration="347000" />
+      <workItem from="1545300551843" duration="239000" />
+      <workItem from="1545301258078" duration="281000" />
+      <workItem from="1545301555909" duration="1553000" />
+      <workItem from="1545303349048" duration="204000" />
+      <workItem from="1545306927452" duration="211000" />
+      <workItem from="1545307157539" duration="24000" />
+      <workItem from="1545838876622" duration="722000" />
+      <workItem from="1551542211405" duration="54000" />
+      <workItem from="1551805597797" duration="373000" />
+      <workItem from="1573376620560" duration="4453000" />
+      <workItem from="1576219882730" duration="980000" />
+      <workItem from="1583544282313" duration="311000" />
+      <workItem from="1586093240075" duration="279000" />
+      <workItem from="1588846972891" duration="3963000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23710000" />
+    <option name="totallyTimeSpent" value="16172000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1366" height="768" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.3257732" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.485567" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.18030183" />
-      <window_info anchor="right" id="Database" order="3" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29899856" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="JRebel" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
-    </layout>
-    <layout-to-restore>
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.485567" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18030183" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info id="Designer" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928468" weight="0.32771084" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="right" id="Palette&#9;" order="4" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49785408" weight="0.2951807" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.3257732" />
-      <window_info anchor="right" id="Maven Projects" order="5" />
-      <window_info id="Favorites" order="3" side_tool="true" />
-    </layout-to-restore>
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49963316" weight="0.32771084" />
+      <window_info anchor="bottom" id="Problems" order="11" weight="0.32885906" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="JRebel Console" order="14" sideWeight="0.50143063" side_tool="true" weight="0.32771084" />
+      <window_info anchor="bottom" id="JRebel Executor" order="15" weight="0.32891566" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/command/ConcreteCommand.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/facade/Facade.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
+        <state relative-caret-position="318">
+          <caret line="25" column="16" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/facade/FacadeSample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/facade/LineOutput.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/command/Receiver.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/facade/SignalOutput.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/keygen/ver5/KeyGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="35" column="9" lean-forward="true" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/command/ConcreteCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
+        <state relative-caret-position="30">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/command/Receiver.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/facade/StringOutput.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
+        <state relative-caret-position="30">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="uml://JAVA/com.javapatterns.abstractfactory">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/factorymethod/cailin/jdk/FactoryMethodTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/factorymethod/cailin/userAssets/PointTemplateAbstract.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/factorymethod/cailin/userAssets/PointCreatorImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/factorymethod/cailin/userAssets/MonthCreatorImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/factorymethod/cailin/userAssets/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/factorymethod/cailin/userAssets/po/UserAssetPO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="6" lean-forward="true" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/factorymethod/cailin/userAssets/impl/month/MonthImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/factorymethod/cailin/userAssets/impl/point/PointAbstract.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/factorymethod/cailin/userAssets/impl/point/PointImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/templatemethod/InterestRate/MoneyMarketAccount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.javapatterns.templatemethod.InterestRate">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
           <ID>JAVA</ID>
-          <OriginalElement>com.javapatterns.abstractfactory</OriginalElement>
+          <OriginalElement>com.javapatterns.templatemethod.InterestRate</OriginalElement>
           <nodes>
-            <node x="61.5" y="145.0">com.javapatterns.abstractfactory.ProductB</node>
-            <node x="61.0" y="290.0">com.javapatterns.abstractfactory.ProductA</node>
-            <node x="353.0" y="435.0">com.javapatterns.abstractfactory.farm</node>
-            <node x="177.0" y="435.0">com.javapatterns.abstractfactory.computer</node>
-            <node x="255.0" y="290.0">com.javapatterns.abstractfactory.exercise1</node>
-            <node x="0.0" y="435.0">com.javapatterns.abstractfactory.exercise3</node>
-            <node x="159.0" y="75.0">com.javapatterns.abstractfactory.ConcreteCreator2</node>
-            <node x="0.0" y="75.0">com.javapatterns.abstractfactory.ConcreteCreator1</node>
-            <node x="108.5" y="0.0">com.javapatterns.abstractfactory.Creator</node>
-            <node x="115.0" y="365.0">com.javapatterns.abstractfactory.ProductA2</node>
-            <node x="116.0" y="220.0">com.javapatterns.abstractfactory.ProductB1</node>
-            <node x="0.0" y="365.0">com.javapatterns.abstractfactory.ProductA1</node>
-            <node x="0.0" y="220.0">com.javapatterns.abstractfactory.ProductB2</node>
+            <node x="268.1333333333334" y="0.0">com.javapatterns.templatemethod.InterestRate.Account</node>
+            <node x="338.0000000000001" y="290.0">com.javapatterns.templatemethod.InterestRate.Client</node>
+            <node x="293.00000000000006" y="167.0">com.javapatterns.templatemethod.InterestRate.CDAccount</node>
+            <node x="0.0" y="167.0">com.javapatterns.templatemethod.InterestRate.MoneyMarketAccount</node>
           </nodes>
           <notes />
           <edges>
-            <edge source="com.javapatterns.abstractfactory.ProductA2" target="com.javapatterns.abstractfactory.ProductA">
-              <point x="0.0" y="-12.5" />
-              <point x="162.5" y="340.0" />
-              <point x="127.0" y="340.0" />
-              <point x="22.0" y="12.5" />
+            <edge source="com.javapatterns.templatemethod.InterestRate.Client" target="com.javapatterns.templatemethod.InterestRate.CDAccount">
+              <point x="-5.6843418860808015E-14" y="-25.5" />
+              <point x="0.0" y="36.5" />
             </edge>
-            <edge source="com.javapatterns.abstractfactory.ProductA1" target="com.javapatterns.abstractfactory.ProductA">
-              <point x="0.0" y="-12.5" />
-              <point x="47.5" y="340.0" />
-              <point x="83.0" y="340.0" />
-              <point x="-22.0" y="12.5" />
+            <edge source="com.javapatterns.templatemethod.InterestRate.Client" target="com.javapatterns.templatemethod.InterestRate.MoneyMarketAccount">
+              <point x="-61.00000000000006" y="-25.5" />
+              <point x="368.50000000000006" y="265.0" />
+              <point x="136.5" y="265.0" />
+              <point x="0.0" y="36.5" />
             </edge>
-            <edge source="com.javapatterns.abstractfactory.ProductB1" target="com.javapatterns.abstractfactory.ProductB">
-              <point x="0.0" y="-12.5" />
-              <point x="164.0" y="195.0" />
-              <point x="128.25" y="195.0" />
-              <point x="22.25" y="12.5" />
+            <edge source="com.javapatterns.templatemethod.InterestRate.Client" target="com.javapatterns.templatemethod.InterestRate.Account">
+              <point x="60.99999999999994" y="-25.5" />
+              <point x="490.50000000000006" y="265.0" />
+              <point x="576.5" y="265.0" />
+              <point x="576.5" y="142.0" />
+              <point x="527.3000000000001" y="142.0" />
+              <point x="103.6666666666667" y="58.5" />
             </edge>
-            <edge source="com.javapatterns.abstractfactory.ProductB2" target="com.javapatterns.abstractfactory.ProductB">
-              <point x="0.0" y="-12.5" />
-              <point x="48.0" y="195.0" />
-              <point x="83.75" y="195.0" />
-              <point x="-22.25" y="12.5" />
+            <edge source="com.javapatterns.templatemethod.InterestRate.CDAccount" target="com.javapatterns.templatemethod.InterestRate.Account">
+              <point x="0.0" y="-36.5" />
+              <point x="429.50000000000006" y="142.0" />
+              <point x="423.6333333333334" y="142.0" />
+              <point x="0.0" y="58.5" />
             </edge>
-            <edge source="com.javapatterns.abstractfactory.ConcreteCreator2" target="com.javapatterns.abstractfactory.Creator">
-              <point x="0.0" y="-12.5" />
-              <point x="228.5" y="50.0" />
-              <point x="169.25" y="50.0" />
-              <point x="20.25" y="12.5" />
-            </edge>
-            <edge source="com.javapatterns.abstractfactory.ConcreteCreator1" target="com.javapatterns.abstractfactory.Creator">
-              <point x="0.0" y="-12.5" />
-              <point x="69.5" y="50.0" />
-              <point x="128.75" y="50.0" />
-              <point x="-20.25" y="12.5" />
+            <edge source="com.javapatterns.templatemethod.InterestRate.MoneyMarketAccount" target="com.javapatterns.templatemethod.InterestRate.Account">
+              <point x="-5.6843418860808015E-14" y="-36.5" />
+              <point x="136.49999999999994" y="142.0" />
+              <point x="319.9666666666667" y="142.0" />
+              <point x="-103.66666666666669" y="58.5" />
             </edge>
           </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="229.0" y="230.0" />
-          <SelectedNodes>
-            <node>com.javapatterns.abstractfactory.ProductA1</node>
-          </SelectedNodes>
-          <Categories />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-83.0" y="94.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Properties</Category>
+            <Category>Methods</Category>
+          </Categories>
           <SCOPE>All</SCOPE>
           <VISIBILITY>private</VISIBILITY>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/command/ConcreteCommand.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/templatemethod/InterestRate/Client.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="225">
+          <caret line="15" column="80" selection-start-line="15" selection-start-column="80" selection-end-line="15" selection-end-column="80" />
         </state>
       </provider>
     </entry>
-    <entry file="uml://JAVA/com.javapatterns.command">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>com.javapatterns.command</OriginalElement>
-          <nodes>
-            <node x="187.0" y="215.0">com.javapatterns.command.lightandfan</node>
-            <node x="372.0" y="215.0">com.javapatterns.command.drawapplet</node>
-            <node x="384.0" y="145.0">com.javapatterns.command.audioplayer</node>
-            <node x="0.0" y="215.0">com.javapatterns.command.stocktrader</node>
-            <node x="192.0" y="0.0">com.javapatterns.command.audioplayer2</node>
-            <node x="341.0" y="355.0">com.javapatterns.command.itsukyu</node>
-            <node x="0.0" y="75.0">com.javapatterns.command.ConcreteCommand</node>
-            <node x="404.0" y="425.0">com.javapatterns.command.Client</node>
-            <node x="0.0" y="355.0">com.javapatterns.command.television</node>
-            <node x="25.5" y="0.0">com.javapatterns.command.Command</node>
-            <node x="280.0" y="425.0">com.javapatterns.command.Invoker</node>
-            <node x="0.0" y="425.0">com.javapatterns.command.book</node>
-            <node x="176.0" y="355.0">com.javapatterns.command.javaawt</node>
-            <node x="0.0" y="145.0">com.javapatterns.command.undoconcept</node>
-            <node x="0.0" y="285.0">com.javapatterns.command.swingundo</node>
-            <node x="183.0" y="285.0">com.javapatterns.command.document</node>
-            <node x="361.0" y="285.0">com.javapatterns.command.drawlines</node>
-            <node x="194.0" y="145.0">com.javapatterns.command.swingundo2</node>
-            <node x="149.0" y="425.0">com.javapatterns.command.Receiver</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="com.javapatterns.command.ConcreteCommand" target="com.javapatterns.command.Command">
-              <point x="0.0" y="-12.5" />
-              <point x="0.0" y="12.5" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="427.0" y="225.0" />
-          <SelectedNodes>
-            <node>com.javapatterns.command.lightandfan</node>
-          </SelectedNodes>
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/command/Receiver.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/templatemethod/InterestRate/CDAccount.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/keygen/ver5/KeyGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="22" column="40" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/adapter/iterenum/Enuterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/adapter/iterenum/Itermeration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/abstractfactory/farm/Gardener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
-          <caret line="2" column="25" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/abstractfactory/farm/TropicalGardener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/abstractfactory/farm/NorthernFruit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/abstractfactory/farm/NorthernGardener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/abstractfactory/farm/TropicalFruit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/builder/message/MessageBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="32" column="39" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/state/audioplayer/AudioPlayer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="33" column="1" lean-forward="true" selection-start-line="33" selection-end-line="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/state/audioplayer/AudioPlayerState.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/state/audioplayer/Julie.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/state/audioplayer/PlayState.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/state/audioplayer/StopState.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/state/ConcreteState.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="70">
-          <caret line="5" column="1" selection-start-line="5" selection-end-line="5" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/state/Context.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/state/drawingtool/CreationTool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/state/drawingtool/DrawingController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/state/drawingtool/SelectionTool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/state/drawingtool/Tool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/state/login/ContextServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/state/login/DBManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/state/login/helloServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/state/State.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/state/switchStatements/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="23" column="15" lean-forward="true" selection-start-line="23" selection-start-column="15" selection-end-line="41" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/state/taoist/LockedState.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/state/taoist/UnlockedState.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/state/taoist/WallEntry.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/state/taoist/WallStateIF.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/state/taoist/WallEntryException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/abstractfactory/computer/ComputerProducer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/abstractfactory/computer/PcProducer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/immutable/complex/Complex.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="896">
-          <caret line="70" selection-start-line="70" selection-end-line="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/templatemethod/hook/AbstractClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/templatemethod/hook/ConcreteClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="60">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+          <folding>
+            <element signature="e#144#145#0" expanded="true" />
+            <element signature="e#192#193#0" expanded="true" />
+            <element signature="e#243#244#0" expanded="true" />
+            <element signature="e#272#273#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/templatemethod/InterestRate/Account.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="18" column="56" selection-start-line="18" selection-start-column="56" selection-end-line="18" selection-end-column="56" />
+        <state relative-caret-position="420">
+          <caret line="34" column="1" lean-forward="true" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/tensorflow/HelloTF.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/templatemethod/hook/AbstractClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+        <state relative-caret-position="150">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/adapter/classAdapter/Adaptee.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/templatemethod/hook/ConcreteClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
+        <state relative-caret-position="135">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.javapatterns.strategy.booksales">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.javapatterns.strategy.booksales</OriginalElement>
+          <nodes>
+            <node x="512.0" y="101.0">com.javapatterns.strategy.booksales.PercentageStrategy</node>
+            <node x="256.0" y="123.0">com.javapatterns.strategy.booksales.NoDiscountStrategy</node>
+            <node x="0.0" y="101.0">com.javapatterns.strategy.booksales.FlatRateStrategy</node>
+            <node x="256.0" y="0.0">com.javapatterns.strategy.booksales.DiscountStrategy</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.javapatterns.strategy.booksales.NoDiscountStrategy" target="com.javapatterns.strategy.booksales.DiscountStrategy">
+              <point x="0.0" y="-25.5" />
+              <point x="0.0" y="25.5" />
+            </edge>
+            <edge source="com.javapatterns.strategy.booksales.FlatRateStrategy" target="com.javapatterns.strategy.booksales.DiscountStrategy">
+              <point x="0.0" y="-47.5" />
+              <point x="118.0" y="76.0" />
+              <point x="295.3333333333333" y="76.0" />
+              <point x="-78.66666666666669" y="25.5" />
+            </edge>
+            <edge source="com.javapatterns.strategy.booksales.PercentageStrategy" target="com.javapatterns.strategy.booksales.DiscountStrategy">
+              <point x="0.0" y="-47.5" />
+              <point x="630.0" y="76.0" />
+              <point x="452.6666666666667" y="76.0" />
+              <point x="78.66666666666669" y="25.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="15.0" y="40.5" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Inner Classes</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/strategy/booksales/PercentageStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/strategy/booksales/NoDiscountStrategy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="33" column="31" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/tensorflow/Helloworld.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/strategy/booksales/DiscountStrategy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="30">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/iterator/linkedlist/Cient.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/strategy/booksales/FlatRateStrategy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="19" column="42" lean-forward="true" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
+        <state relative-caret-position="270">
+          <caret line="26" column="13" lean-forward="true" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jvm/JvmTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/strategy/ConcreteStrategy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="32" column="19" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="19" />
+        <state relative-caret-position="120">
+          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/strategy/sortarray/Sorter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+          <folding>
+            <element signature="e#185#186#0" expanded="true" />
+            <element signature="e#223#224#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/strategy/sortarray/SortClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/strategy/member/StrategyImpl1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+          <folding>
+            <element signature="e#109#110#0" expanded="true" />
+            <element signature="e#145#146#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/strategy/member/Strategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="17" lean-forward="true" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/strategy/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/strategy/Context.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="16" column="33" lean-forward="true" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+          <folding>
+            <element signature="e#274#275#0" expanded="true" />
+            <element signature="e#314#315#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/strategy/StrategyClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/strategy/Strategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/abstractfactory/ProductA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/abstractfactory/ProductA1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/abstractfactory/ProductA2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/abstractfactory/ProductB1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/abstractfactory/exercise1/Cpu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/abstractfactory/exercise1/MacRam.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/abstractfactory/exercise1/PcCpu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/abstractfactory/computer/Cpu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/abstractfactory/ProductB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/strategy/member/AdvMemberStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/strategy/member/MemberStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/simplefactory/simplified1/FriutFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/strategy/member/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/strategy/member/PrimaryMemberStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="12" lean-forward="true" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/strategy/member/StrategyFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="37" lean-forward="true" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#395#396#0" expanded="true" />
+            <element signature="e#439#440#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javapatterns/strategy/member/Price.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+          <folding>
+            <element signature="e#234#235#0" expanded="true" />
+            <element signature="e#274#275#0" expanded="true" />
+            <element signature="e#412#413#0" expanded="true" />
+            <element signature="e#470#471#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
-      <state key="Copyright.UI">
+      <state key="ArtifactsStructureConfigurable.UI">
         <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -850,6 +1056,18 @@
           </splitter-proportions>
         </settings>
       </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>desginpattern</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
@@ -864,17 +1082,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ScopeChooserConfigurable.UI">
-        <settings>
+          <last-edited>Maven: junit:junit:3.8.1</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

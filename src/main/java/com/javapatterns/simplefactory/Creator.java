@@ -7,7 +7,4 @@ public class Creator
         return new ConcreteProduct();
     }
 
-    /** @link dependency 
-     * @label Creates*/
-    /*# ConcreteProduct lnkConcreteProduct; */
 }
